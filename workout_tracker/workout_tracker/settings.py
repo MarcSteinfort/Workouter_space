@@ -122,7 +122,7 @@ LOGIN_URL = 'login'
 LOGIN_REDIRECT_URL = 'index'
 LOGOUT_REDIRECT_URL = 'login'
 
-SECRET_KEY = 'secret'
+SECRET_KEY = 'django-insecure-a)qpj-2&4075y2u4amfk7-*0=0is_qe(rpq*dnzufof4-fu=0b'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
